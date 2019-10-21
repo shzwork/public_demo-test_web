@@ -1,7 +1,7 @@
 {
 	"header": {},
 	"body": {
-		"resultsets": [{
+		"resultSets": [{
 			"pages": "4",
 			"cpage": "${cpage}",
 			"name": "default",
