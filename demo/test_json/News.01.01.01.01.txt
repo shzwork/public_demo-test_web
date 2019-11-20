@@ -6,7 +6,7 @@
 			"cpage": "${cpage}",
 			"name": "default",
 			"row": [{
-				"title_image": "https://shzwork.github.io/public_demo-test_web/demo/test_json/good_0_small.jpg",
+				"title_image": "https://shzwork.github.io/public_demo-test_web/demo/image/News.01.01.01.02/good_0_small.jpg",
 				"time": "2019-09-28",
 				"title": "标题_${cpage}_0"
 			}, {
