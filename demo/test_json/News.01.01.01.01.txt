@@ -6,7 +6,7 @@
 			"cpage": "${cpage}",
 			"name": "default",
 			"row": [{
-				"title_image": "http://localhost:8080/images/0.jpg",
+				"title_image": "https://shzwork.github.io/public_demo-test_web/demo/test_json/good_0_small.jpg",
 				"time": "2019-09-28",
 				"title": "标题_${cpage}_0"
 			}, {

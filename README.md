@@ -14,6 +14,7 @@ https://github.com/shzwork/public_demo-test_web/settings
 网页地址
 Your site is ready to be published at 
 https://shzwork.github.io/public_demo-test_web/
+https://shzwork.github.io/public_demo-test_web/demo/test_json/News.01.01.01.01.txt
 
 ## Welcome to GitHub Pages
 
