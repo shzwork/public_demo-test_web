@@ -6,15 +6,15 @@
 			"cpage": "${cpage}",
 			"name": "default",
 			"row": [{
-				"image": "http://localhost:8080/images/0.jpg",
+				"title_image": "http://localhost.:80/images/0.jpg",
 				"time": "2019-09-28",
 				"title": "标题_${cpage}_0"
 			}, {
-				"image": "http://localhost:8080/images/1.jpg",
+				"title_image": "http://localhost:8080/images/1.jpg",
 				"time": "2019-09-28",
 				"title": "标题_${cpage}_1"
 			}, {
-				"image": "http://localhost:8080/images/2.jpg",
+				"title_image": "http://localhost:8080/images/2.jpg",
 				"time": "2019-09-28",
 				"title": "标题_${cpage}_2"
 			}]
