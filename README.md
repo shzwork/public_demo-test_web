@@ -29,11 +29,13 @@ https://github.com/shzwork/public_demo-test_web/settings
 
 往下拉到 **GitHub Pages**
 
-![image-20200523084900841](media/image-20200523084900841.png)
+![image-20200523084900841](https://shzwork.github.io/public_demo-test_web/media/image-20200523084900841.png)
 
 里面在有一个 **source** 可以选择 某一分支 比如 **master** 分支 做为主要显示的目录
 
-**index.html**是固定的名称 主页就是它
+`index.html `是固定的名称 主页就是它
+
+（注： md里如果要显示图片 要把地址换成  https://shzwork.github.io/public_demo-test_web/ 开头 这样就可以了）
 
 访问地址 https://shzwork.github.io/public_demo-test_web/ 时， 就会主动显示它
 
