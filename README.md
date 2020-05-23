@@ -1,55 +1,54 @@
-# public_demo-test_web
-我的测试网页
+# 这是一个测试项目
+This is a test demo !!
 
 
 
-项目地址
+## 项目地址
+
+### 源码地址
+
 https://github.com/shzwork/public_demo-test_web
 
-生成网页的设置页面
-https://github.com/shzwork/public_demo-test_web/settings
+### 网页地址
 
-选择一个分支做为主页
-
-网页地址
-Your site is ready to be published at 
 https://shzwork.github.io/public_demo-test_web/
+
+试试页面可以不可以访问
+
 https://shzwork.github.io/public_demo-test_web/demo/test_json/News.01.01.01.01.txt
 
-## Welcome to GitHub Pages
+## GitHub Pages 相关
 
-You can use the [editor on GitHub](https://github.com/shzwork/public_demo-test_web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+在线的  md编辑器 [editor on GitHub](https://github.com/shzwork/public_demo-test_web/edit/master/README.md)  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 设置主页
 
-### Markdown
+项目设置页面中
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://github.com/shzwork/public_demo-test_web/settings
 
-```markdown
-Syntax highlighted code block
+往下拉到 **GitHub Pages**
 
-# Header 1
-## Header 2
-### Header 3
+里面在有一个 **source** 可以选择 某一分支 比如 **master** 分支 做为主要显示的目录
 
-- Bulleted
-- List
+**index.html**是固定的名称 主页就是它
 
-1. Numbered
-2. List
+访问地址 https://shzwork.github.io/public_demo-test_web/ 时， 就会主动显示它
 
-**Bold** and _Italic_ and `Code` text
+参考：
 
-[Link](url) and ![Image](src)
-```
+https://www.jianshu.com/p/b6dfc7c886a9
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+https://www.cnblogs.com/M-M-Monica/p/9991923.html
+
+### Markdown 文档
+
+GitHub的官方说明  [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shzwork/public_demo-test_web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+GitHub显示主题，先不管吧 [repository settings](https://github.com/shzwork/public_demo-test_web/settings).  它的配置文件是 `_config.yml`  先不管吧
 
-### Support or Contact
+### Git帮助文档
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
