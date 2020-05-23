@@ -29,6 +29,8 @@ https://github.com/shzwork/public_demo-test_web/settings
 
 往下拉到 **GitHub Pages**
 
+![image-20200523084900841](media/image-20200523084900841.png)
+
 里面在有一个 **source** 可以选择 某一分支 比如 **master** 分支 做为主要显示的目录
 
 **index.html**是固定的名称 主页就是它
