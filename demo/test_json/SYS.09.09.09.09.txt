@@ -1,0 +1,7 @@
+{
+	"header": {},
+	"body": {
+		"url":"http://10.168.1.164:9000/shared/test/apk/app-release.apk",
+		"version":"1.0.1"
+	}
+}
